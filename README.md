@@ -22,4 +22,4 @@ An application that leverages Google Gemini's advanced multimodal capabilities t
    ```
 5. Double-click `index.html` to open it in your browser, click **Record**, and pitch!
 
-## Live Video Demonstration
+
